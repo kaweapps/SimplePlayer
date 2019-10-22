@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimplePlayer</string>
+    <string name="tracks_title">Songs</string>
+
+    <!-- Notificaiton Channel -->
+    <string name="notification_channel" translatable="false">Music Player Channel_ID</string>
+    <string name="notification_channel_description" translatable="false">Channel ID for Music Player</string>
+
+    <!-- Accessibility button description -->
+    <string name="btn_play">Play</string>
+    <!-- Accessibility button description -->
+    <string name="btn_pause">Pause</string>
+</resources>
